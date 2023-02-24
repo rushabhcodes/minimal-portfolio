@@ -1,7 +1,7 @@
 export default [
     {
         title:'This Website',
-        imgUrl:'public/assets/minimal-portfolio.png',
+        imgUrl:'/assets/minimal-portfolio.png',
         stack:['Vite', 'React', 'Tailwind'],
         link: 'https://fkcodes.com',
     },
