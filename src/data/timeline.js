@@ -3,10 +3,10 @@ export default [
      {
         month:'Dec',
         year: '2022',
-        title: 'Signed up for Conputer Engineering',
+        title: 'Signed up for Computer Engineering',
         duration: '',
         details:
-             'I signed up for a degree cource in Computer Engineering by Mumbai Universit.',
+             'I signed up for a degree course in Computer Engineering by Mumbai University.',
      },
      {
         month:'Dec',
@@ -14,7 +14,7 @@ export default [
         title: "Harverd CS50's Introduction to Computer Science",
         duration: '',
         details:
-             'I pursued the knowledge that this computer science cource had to offer. I learned about computer science theory, an array of programming, and aspects of cyber seurity.',
+             'I pursued the knowledge that this computer science course had to offer. I learned about computer science theory, an array of programming, and aspects of cyber seurity.',
      },
      {
         month: 'May',
