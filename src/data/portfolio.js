@@ -6,10 +6,10 @@ export default [
         link: 'https://rushabh1134.github.io/minimal-portfolio/',
     },
     {
-        title:'Other Stuff',
-        imgUrl:'',
-        stack:['Stack', 'Stack', 'Stack'],
-        link: '',
+        title:'Resource Sharing Website',
+        imgUrl:'./assets/engineer-exchange.png',
+        stack:['HTML', 'CSS', 'Javascript'],
+        link: 'https://viva-me-padh-ke-kya-kare.ga/',
     },
     {
         title:'Other Stuff',
