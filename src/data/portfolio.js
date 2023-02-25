@@ -1,9 +1,9 @@
 export default [
     {
         title:'This Website',
-        imgUrl:'/assets/minimal-portfolio.png',
+        imgUrl:'/public/assets/minimal-portfolio.png ',
         stack:['Vite', 'React', 'Tailwind'],
-        link: 'https://fkcodes.com',
+        link: 'https://rushabh1134.github.io/minimal-portfolio/',
     },
     {
         title:'Other Stuff',
