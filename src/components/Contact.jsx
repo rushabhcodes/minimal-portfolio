@@ -22,7 +22,8 @@ function Contact() {
             placeholder="Email"
             className="my-2 p-2 bg-transparent border-2 rounded-md focus:outline-none"
           />
-          <textarea
+          <input
+            type="text"
             name="message"
             placeholder="Message"
             cols="30"
@@ -30,7 +31,7 @@ function Contact() {
             className="mb-4 p-2 bg-transparent border-2 rounded-md focus:outline-none"
           />
           <button
-          type="button"
+          type="submit"
           className="text-center inline-block px-8 py-3 w-max text-base font-medium rounded-md text-white bg-gradient-to-r from-yellow-500 to-pink-500 drop-shadow-md hover:stroke-white"
           >
             Send a Message
