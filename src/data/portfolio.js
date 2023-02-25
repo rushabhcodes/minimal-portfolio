@@ -1,7 +1,7 @@
 export default [
     {
         title:'This Website',
-        imgUrl:'/assets/minimal-portfolio.png',
+        imgUrl:'./assets/minimal-portfolio.png',
         stack:['Vite', 'React', 'Tailwind'],
         link: 'https://rushabh1134.github.io/minimal-portfolio/',
     },
