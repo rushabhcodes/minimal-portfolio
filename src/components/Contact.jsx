@@ -14,12 +14,15 @@ function Contact() {
             type="name"
             name="name"
             placeholder="Name"
+            required
             className="p-2 bg-transparent border-2 rounded-md focus:outline-none"
           />
           <input
             type="name"
             name="email"
             placeholder="Email"
+            pattern="^([a-zA-Z0-9_\-\.]+)@((\[[0-9]{1,3}\.[0-9]{1,3}\.[0-9]{1,3}\.)|(([a-zA-Z0-9\-]+\.)+))([a-zA-Z]{2,4}|[0-9]{1,3})(\]?)$"
+            required
             className="my-2 p-2 bg-transparent border-2 rounded-md focus:outline-none"
           />
           <input
@@ -27,7 +30,8 @@ function Contact() {
             name="message"
             placeholder="Message"
             cols="30"
-            rows="10"
+            rows="10" 
+            required
             className="mb-4 p-2 bg-transparent border-2 rounded-md focus:outline-none"
           />
           <button
